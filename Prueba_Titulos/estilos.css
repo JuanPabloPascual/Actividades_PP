@@ -1,0 +1,18 @@
+* {
+background-color: #ff6961;
+}
+
+h1 {
+    font-family: "Jaro";
+    color: white;
+}
+
+h2 {
+    font-family: "Jaro";
+    color: green;
+}
+
+p {
+    font-family: sans-serif;
+    color: black;
+}
